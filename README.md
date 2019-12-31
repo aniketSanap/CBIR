@@ -4,4 +4,5 @@ A simple Content Based Image Retrieval method using pretrained resnet and densen
 <b>2. </b>Ring<br>
 <b>3. </b>Earring<br>
 <b>4. </b>Necklace<br><br>
-Each class contains about 300 images each. The similar images returned do not take the class of the image into account which makes this an unsupervised approach.
+Each class contains about 300 images each. The similar images returned do not take the class of the image into account which makes this an unsupervised approach.<br>
+Find my blog post on this project [here](https://aniketsanap.github.io/Content-Based-Image-Retrieval/)
